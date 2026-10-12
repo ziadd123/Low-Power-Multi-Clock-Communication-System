@@ -1,0 +1,211 @@
+{D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/PAR_CALC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/PAR_CALC.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PAR_CALC
+
+Top level modules:
+	PAR_CALC
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/TX_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/TX_TOP.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module TX_TOP
+
+Top level modules:
+	TX_TOP
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/RST_SYNC/RST_SYNC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/RST_SYNC/RST_SYNC.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/RX_FSM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/RX_FSM.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RX_FSM
+
+Top level modules:
+	RX_FSM
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_MEM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_MEM.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FIFO_MEM
+
+Top level modules:
+	FIFO_MEM
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLK_GATE/CLK_GATE.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLK_GATE/CLK_GATE.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/DATA_SYNC/DATA_SYNC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/DATA_SYNC/DATA_SYNC.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_WR.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_WR.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FIFO_WR
+
+Top level modules:
+	FIFO_WR
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/stop_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/stop_check.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module stop_check
+
+Top level modules:
+	stop_check
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/start_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/start_check.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module start_check
+
+Top level modules:
+	start_check
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/deserializer.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/deserializer.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLKDIV/CLK_DIV.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLKDIV/CLK_DIV.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CLK_DIV
+
+Top level modules:
+	CLK_DIV
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/TOP_UART.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/TOP_UART.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module TOP_UART
+
+Top level modules:
+	TOP_UART
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/parity_check.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/parity_check.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module parity_check
+
+Top level modules:
+	parity_check
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/FSM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/FSM.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/TB/SYS_TB.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/TB/SYS_TB.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_SYS_TOP
+
+Top level modules:
+	tb_SYS_TOP
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_RD.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/FIFO_RD.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module FIFO_RD
+
+Top level modules:
+	FIFO_RD
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLK_DIV_MUX/CLKDIV_MUX.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/CLK_DIV_MUX/CLKDIV_MUX.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CLKDIV_MUX
+
+Top level modules:
+	CLKDIV_MUX
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/TOP/SYS_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/TOP/SYS_TOP.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ALU/ALU.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ALU/ALU.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/ASYNC_FIFO_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/ASYNC_FIFO_TOP.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ASYNC_FIFO_TOP
+
+Top level modules:
+	ASYNC_FIFO_TOP
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/PUL_GEN/PUL_GEN.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/PUL_GEN/PUL_GEN.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PUL_GEN
+
+Top level modules:
+	PUL_GEN
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/RF/reg_file.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/RF/reg_file.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/serializer.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/serializer.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module serializer
+
+Top level modules:
+	serializer
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/MUX.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/MUX.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/edge_bit_counter.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/edge_bit_counter.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/SYS_CTRL/SYS_CTRL.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/SYS_CTRL/SYS_CTRL.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/DF_SYNC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/ASYNC_FIFO/DF_SYNC.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DF_SYNC
+
+Top level modules:
+	DF_SYNC
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/RX_TOP.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/RX_TOP.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RX_TOP
+
+Top level modules:
+	RX_TOP
+
+} {} {}} {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/data_sampling.v} {1 {vlog -work work -vopt -stats=none {D:/Digital design/Temsah diploma/system blocks/SYS_FINAL/UART/data_sampling.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}}
